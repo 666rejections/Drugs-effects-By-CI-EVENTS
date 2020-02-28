@@ -5,7 +5,7 @@ Modifided version of esx_optionalneeds from @indilo53
 
 * esx_status https://github.com/FXServer-ESX/fxserver-esx_status
 
-* esx_drugs https://github.com/ESX-Org/esx_drugs <- Original
+* esx_drugs https://github.com/CI-EVENTS/Drugs-by-CI-EVENTS
 
 * Remove lines esx_drugs_cl.lua and esx_drugs_sv.lua That gives weed efect 
 
